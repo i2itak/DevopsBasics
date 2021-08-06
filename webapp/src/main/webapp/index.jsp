@@ -19,7 +19,6 @@
                 <input id="IdForEmail" type="email" name="yourEmail" placeholder="Please Enter your Email"><br>
                 <input id="IdForPwd" type="password" placeholder="Please Enter Strong Password"></input><br>
                 <button id="IdForSubmit">Submit</button>
-                <button id="IdForSubmit">ForGet PAssword</button>
             </form>
 
             <p>24/7 Banking</p>
